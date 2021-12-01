@@ -19,7 +19,7 @@ Print both the values it would be interchanged
 End the program
 
 ## PROGRAM:
-```
+~~~
 #Program to swap two values.
 #Developed by: Kaushika.A
 #RegisterNumber:21500112
@@ -29,7 +29,7 @@ c=a
 a=b
 b=c
 print("Swapped values are:",a,b)
-```
+~~~
 
 ## OUTPUT:
 ![GitHub Logo](swap.png)
