@@ -32,7 +32,7 @@ print("Swapped values are:",a,b)
 ~~~
 
 ## OUTPUT:
-![GitHub Logo](swap.png)
+![GitHub Logo](Swap.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
